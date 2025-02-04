@@ -1,5 +1,5 @@
 ---
-title: Conference Travel
+title: Conference travel and reimbursement
 categories: students
 ---
 
@@ -27,46 +27,46 @@ The general steps are as follows:
 
 **Some tips for travel reports**
 
-- If you drove your own car to a conference, you can claim gas expenses under ‘personal car mileage’. The mileage reimbursement does not apply if you rented a car. In that case, you should claim gas expenses under "care rental fuel'.
+- If you drove your own car to a conference, you can claim gas expenses under ‘personal car mileage’. The mileage reimbursement does not apply if you rented a car. In that case, you should claim gas expenses under "car rental fuel'.
 - Sometimes you may not fly the most direct route to the conference destination, due to extra personal days on either side of the conference. If this is the case, when booking your flights, in addition to keeping the receipt for your booked flight, you should also search for and save an invoice for a reasonable direct flight from Buffalo to the conference destination. Attach this as an extra receipt to the report, and a note to the approver in the report header. If there’s a large difference in cost, you will be reimbursed for the cheaper of the two flights.  
 
 
 **An example with images**
 
-Step 1. Open Concur from UB Administrative Service Portal (https://www.buffalo.edu/administrative-services/business-travel/travel-expense-reimbursement-system.html)
+Step 1. Open Concur from [UB Administrative Service Portal](https://www.buffalo.edu/administrative-services/business-travel/travel-expense-reimbursement-system.html)
 
 <figure><center>
-  <img width="500" src="{{site.baseurl}}/images/post/reimbursement/Picture1.png" data-action="zoom">
+  <img width="500" src="{{site.baseurl}}/images/posts/reimbursement/Picture1.png" data-action="zoom">
 </center></figure>
 
 Step 2: Start a request.
 
 <figure><center>
-  <img width="500" src="{{site.baseurl}}/images/post/reimbursement/Picture2.png" data-action="zoom">
+  <img width="500" src="{{site.baseurl}}/images/posts/reimbursement/Picture2.png" data-action="zoom">
 </center></figure>
 
 Step 3. Fill out request header info with details of trip/expenses, and notes to approver.
 
 <figure><center>
-  <img width="500" src="{{site.baseurl}}/images/post/reimbursement/Picture3.png" data-action="zoom">
+  <img width="500" src="{{site.baseurl}}/images/posts/reimbursement/Picture3.png" data-action="zoom">
 </center></figure>
 
 Step 4. Add expenses with estimated costs and submit the request.
 
 <figure><center>
-  <img width="500" src="{{site.baseurl}}/images/post/reimbursement/Picture4.png" data-action="zoom">
+  <img width="500" src="{{site.baseurl}}/images/posts/reimbursement/Picture4.png" data-action="zoom">
 </center></figure>
 
 Step 5. Create an expense report from the approved request.
 
 <figure><center>
-  <img width="500" src="{{site.baseurl}}/images/post/reimbursement/Picture5.png" data-action="zoom">
+  <img width="500" src="{{site.baseurl}}/images/posts/reimbursement/Picture5.png" data-action="zoom">
 </center></figure>
 
 Step 5a: Fill out report header
 
 <figure><center>
-  <img width="500" src="{{site.baseurl}}/images/post/reimbursement/Picture6.png" data-action="zoom">
+  <img width="500" src="{{site.baseurl}}/images/posts/reimbursement/Picture6.png" data-action="zoom">
 </center></figure>
 
 Step 5b: Add expenses, with receipt images attached.
@@ -74,7 +74,7 @@ Step 5b: Add expenses, with receipt images attached.
 Step 5c: Attach abstract and conference agenda, print report and send to Dr. Yong for approval.
 
 <figure><center>
-  <img width="500" src="{{site.baseurl}}/images/post/reimbursement/Picture7.png" data-action="zoom">
+  <img width="500" src="{{site.baseurl}}/images/posts/reimbursement/Picture7.png" data-action="zoom">
 </center></figure>
 
 Step 6: Submit report.
