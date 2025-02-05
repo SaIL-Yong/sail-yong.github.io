@@ -12,13 +12,13 @@ When someone has an upcoming conference talks or poster presentations, they can 
 {% raw %}
 | Date       | Research   | Journal |
 |------------|--------|-------|
-| Feb 5      | Iftekhar / Nasir  | Emad  | 
+| Feb 5      | Iftekhar / Nasir  |   | 
 | Feb 12     | BPS poster  | Nasir   |
 | Feb 26     | Iftekhar / Emad  | Didarul  |
 | Mar 12     | APS talk/poster  |   |
 | Mar 26     | Emad / Didarul  | Iftekhar  |
-| Apr 9      | Nasir / Iftekhar  | Didarul  |
-| Apr 23     | Didarul  | Iftekhar / Nasir   |
+| Apr 9      | Nasir / Iftekhar  |   |
+| Apr 23     | Didarul  | Emad   |
 | May 7      | Data management review  |   |
 | May 21     | Summer research planning  |    |
 
