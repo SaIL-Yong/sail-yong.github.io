@@ -6,6 +6,14 @@ permalink: /publications/
 We include the link for each of our papers that directs to a journal's site where that particular publication is available for access. We also try to provide links to preprint PDFs for papers that are not open access. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
+[_PFOA Induces Fission of Phase-Separated Phospholipid Vesicles_](https://doi.org/10.26434/chemrxiv-2025-l0v56)<br>
+Seungsu Han, Emad Pirhadi, Xin Yong, Sangwoo Shin<br>
+ChemRxiv preprint, 2025 ([PDF](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6822a58a927d1c2e666cabf9/original/pfoa-induces-fission-of-phase-separated-phospholipid-vesicles.pdf))
+
+[_A novel dilution strategy for tuning Janus particle morphology_](https://doi.org/10.1016/j.jcis.2025.137613)<br>
+Yifan Li, Emad Pirhadi, Serkan Demirci, Utsav Kumar Dey, Thamer Rawah, Aneeba Chaudary, Ricardo Ortega, Connor Thorpe, Bingrui Huang, Xin Yong, Shan Jiang<br>
+Journal of Colloid and Interface Science, 2025
+
 [_Quantifying the algae and toxic nanoparticle interactions using optical coherence tomography_](https://doi.org/10.1117/12.3051873)<br>
 Hongshan Liu, Xin Yong, Ke Du, Yu Gan<br>
 Proc. SPIE 13357, Photonic Technologies in Plant and Agricultural Science II, 2025 ([PDF](https://www.spiedigitallibrary.org/proceedings/Download?urlId=10.1117%2F12.3051873))
