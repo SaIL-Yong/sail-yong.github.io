@@ -6,6 +6,10 @@ permalink: /publications/
 We include the link for each of our papers that directs to a journal's site where that particular publication is available for access. We also try to provide links to preprint PDFs for papers that are not open access. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
+[_Cell-Scale Dynamic Modeling of Membrane Interactions with Arbitrarily Shaped Particles_](https://doi.org/10.48550/arXiv.2506.02376)<br>
+Didarul Ahasan Redwan, Justin Reicher, Xin Yong<br>
+arXiv preprint, 2025 ([PDF](https://arxiv.org/pdf/2506.02376))
+
 [_PFOA Induces Fission of Phase-Separated Phospholipid Vesicles_](https://doi.org/10.26434/chemrxiv-2025-l0v56)<br>
 Seungsu Han, Emad Pirhadi, Xin Yong, Sangwoo Shin<br>
 ChemRxiv preprint, 2025 ([PDF](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6822a58a927d1c2e666cabf9/original/pfoa-induces-fission-of-phase-separated-phospholipid-vesicles.pdf))
