@@ -22,3 +22,5 @@ Iftekhar hails from Chittagong, Bangladesh. He holds a BSc in Mechanical Enginee
 ### Research Interests
 
 Iftekhar is interested in research focuses on understanding the mechanics and dynamics of microswimmers and soft matter systems, integrating theoretical frameworks with simulation techniques.
+=======
+<a href="mailto:memon2@buffalo.edu"><i class="fa fa-envelope-o"></i> memon2@buffalo.edu</a>

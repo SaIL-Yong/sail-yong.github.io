@@ -6,13 +6,35 @@ permalink: /publications/
 We include the link for each of our papers that directs to a journal's site where that particular publication is available for access. We also try to provide links to preprint PDFs for papers that are not open access. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
+[_Cell-Scale Dynamic Modeling of Membrane Interactions with Arbitrarily Shaped Particles_](https://doi.org/10.48550/arXiv.2506.02376)<br>
+Didarul Ahasan Redwan, Justin Reicher, Xin Yong<br>
+arXiv preprint, 2025 ([PDF](https://arxiv.org/pdf/2506.02376))
+
+[_PFOA Induces Fission of Phase-Separated Phospholipid Vesicles_](https://doi.org/10.26434/chemrxiv-2025-l0v56)<br>
+Seungsu Han, Emad Pirhadi, Xin Yong, Sangwoo Shin<br>
+ChemRxiv preprint, 2025 ([PDF](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6822a58a927d1c2e666cabf9/original/pfoa-induces-fission-of-phase-separated-phospholipid-vesicles.pdf))
+
+[_A novel dilution strategy for tuning Janus particle morphology_](https://doi.org/10.1016/j.jcis.2025.137613)<br>
+Yifan Li, Emad Pirhadi, Serkan Demirci, Utsav Kumar Dey, Thamer Rawah, Aneeba Chaudary, Ricardo Ortega, Connor Thorpe, Bingrui Huang, Xin Yong, Shan Jiang<br>
+Journal of Colloid and Interface Science, 2025
+
+[_Quantifying the algae and toxic nanoparticle interactions using optical coherence tomography_](https://doi.org/10.1117/12.3051873)<br>
+Hongshan Liu, Xin Yong, Ke Du, Yu Gan<br>
+Proc. SPIE 13357, Photonic Technologies in Plant and Agricultural Science II, 2025 ([PDF](https://www.spiedigitallibrary.org/proceedings/Download?urlId=10.1117%2F12.3051873))
+
+[_Deep-learning-enhanced modeling of electrosprayed particle assembly on non-spherical droplet surfaces_](https://doi.org/10.1039/D4SM01160K)<br>
+Nasir Amiri, Joseph M. Prisaznuk, Peter Huang, Paul R. Chiarot, Xin Yong<br>
+Soft Matter, 2025 ([PDF](https://pubs.rsc.org/en/content/articlepdf/2025/sm/d4sm01160k))
+
 [_Two Sides of the Coin: Synthesis and Applications of Janus Particles_](https://doi.org/10.1039/D4NR03652B)<br>
 Yifan Li, Fei Liu, Serkan Demirci, Utsav Kumar Dey, Thamer Rawah, Aneeba Chaudary, Ricardo Ortega, Zhengtao Yang, Emad Pirhadi, Bingrui Huang, Xin Yong, Shan Jiang<br>
 Nanoscale, 2024 ([PDF](https://pubs.rsc.org/en/content/articlepdf/2024/nr/d4nr03652b))
 
+<!---
 [_Deep-Learning-Enhanced Modeling of Electrosprayed Particle Assembly on Non-spherical Droplet Surfaces_](https://doi.org/10.26434/chemrxiv-2024-wzr9s)<br>
 Nasir Amiri, Joseph Prisaznuk, Peter Huang, Paul Chiarot, Xin Yong<br>
 ChemRxiv preprint, 2024 ([PDF](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/66fedc72cec5d6c1420f7a3b/original/deep-learning-enhanced-modeling-of-electrosprayed-particle-assembly-on-non-spherical-droplet-surfaces.pdf))
+-->
 
 [_Probing wrapping dynamics of spherical nanoparticles by 3D vesicles using force-based simulations_](https://doi.org/10.1039/D3SM01600E)<br>
 Didarul Ahasan Redwan, Ke Du, Xin Yong<br>
