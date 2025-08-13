@@ -10,9 +10,14 @@ We include the link for each of our papers that directs to a journal's site wher
 Didarul Ahasan Redwan, Justin Reicher, Xin Yong<br>
 arXiv preprint, 2025 ([PDF](https://arxiv.org/pdf/2506.02376))
 
-[_PFOA Induces Fission of Phase-Separated Phospholipid Vesicles_](https://doi.org/10.26434/chemrxiv-2025-l0v56)<br>
+[_Membrane Stress Enhances Specific PQS–Lipid Interactions That Drive Bacterial Outer Membrane Vesicle Biogenesis_](https://doi.org/10.3390/membranes15080247)<br>
+Citrupa Gopal, Hasan Al Tarify, Emad Pirhadi, Eliza G. O’Brien, Anuradha Dagar, Xin Yong, Jeffrey W. Schertzer<br>
+Membranes, 2025 ([PDF](https://www.mdpi.com/2077-0375/15/8/247/pdf?version=1755089760))
+
+
+[_PFOA induces fission of phase-separated phospholipid vesicles_](https://doi.org/10.1039/D5CC03353E)<br>
 Seungsu Han, Emad Pirhadi, Xin Yong, Sangwoo Shin<br>
-ChemRxiv preprint, 2025 ([PDF](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6822a58a927d1c2e666cabf9/original/pfoa-induces-fission-of-phase-separated-phospholipid-vesicles.pdf))
+Chemical Communications, 2025 ([PDF](https://pubs.rsc.org/en/content/articlepdf/2025/cc/d5cc03353e))
 
 [_A novel dilution strategy for tuning Janus particle morphology_](https://doi.org/10.1016/j.jcis.2025.137613)<br>
 Yifan Li, Emad Pirhadi, Serkan Demirci, Utsav Kumar Dey, Thamer Rawah, Aneeba Chaudary, Ricardo Ortega, Connor Thorpe, Bingrui Huang, Xin Yong, Shan Jiang<br>
