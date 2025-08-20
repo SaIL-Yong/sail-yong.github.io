@@ -3,7 +3,7 @@ name: Didarul Ahasan Redwan
 position: gradstudent
 avatar: didarul-redwan.jpg
 twitter:
-joined: 2021
+joined: 202108
 title: Didarul Redwan
 ---
 

@@ -3,7 +3,7 @@ name: Emad Pirhadi
 position: gradstudent
 avatar: emad-pirhadi.jpg
 twitter:
-joined: 2019
+joined: 201908
 title: Emad Pirhadi
 ---
 

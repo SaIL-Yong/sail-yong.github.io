@@ -3,7 +3,7 @@ name: Md Iftekhar Yousuf Emon
 position: gradstudent
 avatar: iftekhar-emon.jpg
 twitter:
-joined: 2023
+joined: 202301
 title: Iftekhar Emon
 ---
 

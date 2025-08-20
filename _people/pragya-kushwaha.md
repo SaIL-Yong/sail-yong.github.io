@@ -3,7 +3,7 @@ name: Pragya Kushwaha
 position: postdoc
 avatar: pragya-kushwaha.jpg
 twitter:
-joined: 2025
+joined: 202505
 title: Pragya Kushwaha
 ---
 

@@ -3,7 +3,7 @@ name: Melanie Valladares
 position: undergrad
 avatar: mel-valladares.jpg
 twitter:
-joined: 2025
+joined: 202502
 title: Melanie Valladares
 ---
 

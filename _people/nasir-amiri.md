@@ -3,7 +3,7 @@ name: Nasir Amiri
 position: gradstudent
 avatar: nasir-amiri.jpg
 twitter:
-joined: 2021
+joined: 202108
 title: Nasir Amiri
 ---
 
