@@ -6,9 +6,9 @@ permalink: /publications/
 We include the link for each of our papers that directs to a journal's site where that particular publication is available for access. We also try to provide links to preprint PDFs for papers that are not open access. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
-[_Cell-Scale Dynamic Modeling of Membrane Interactions with Arbitrarily Shaped Particles_](https://doi.org/10.48550/arXiv.2506.02376)<br>
+[_Cell-Scale Dynamic Modeling of Membrane Interactions with Arbitrarily Shaped Particles_](https://doi.org/10.1039/D5SM00567A)<br>
 Didarul Ahasan Redwan, Justin Reicher, Xin Yong<br>
-arXiv preprint, 2025 ([PDF](https://arxiv.org/pdf/2506.02376))
+Soft Matter, 2025 ([PDF](https://pubs.rsc.org/en/content/articlepdf/2025/sm/d5sm00567a))
 
 [_Membrane Stress Enhances Specific PQS–Lipid Interactions That Drive Bacterial Outer Membrane Vesicle Biogenesis_](https://doi.org/10.3390/membranes15080247)<br>
 Citrupa Gopal, Hasan Al Tarify, Emad Pirhadi, Eliza G. O’Brien, Anuradha Dagar, Xin Yong, Jeffrey W. Schertzer<br>
