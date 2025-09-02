@@ -8,19 +8,19 @@ permalink: /intranet/
 On a rotating basis, each member of the lab speaks to share their work or paper they read.
 When someone has an upcoming conference talks or poster presentations, they can practice in the lab meetings.
 
-### Spring 2025
+### Fall 2025
 {% raw %}
 | Date       | Research   | Journal |
 |------------|--------|-------|
-| Feb 5      | Iftekhar / Nasir  |   | 
-| Feb 12     | BPS poster  | Nasir   |
-| Feb 26     | Iftekhar / Emad  | Didarul  |
-| Mar 12     | APS talk/poster  |   |
-| Mar 26     | Emad / Didarul  | Iftekhar  |
-| Apr 9      | Nasir / Iftekhar  |   |
-| Apr 23     | Didarul  | Emad   |
-| May 7      | Data management review  |   |
-| May 21     | Summer research planning  |    |
+| Sep 11     | Ifti / Pragya  |   | 
+| Sep 25     | Didarul / Nasir  | Emad  |
+| Oct 9      | Emad / Ifti  | Nasir  |
+| Oct 23     | Pragya / Nasir  | Didarul  |
+| Nov 6      | Didarul  | Iftekhar  |
+| Nov 13     | DFD talk practice (Ifti) / Emad | Pragya  |
+| Dec 4      | Data management review  |   |
+| Dec 11     | Winter research plan  |   |
+
 
 {% endraw %}
 <hr>
