@@ -6,6 +6,10 @@ permalink: /publications/
 We include the link for each of our papers that directs to a journal's site where that particular publication is available for access. We also try to provide links to preprint PDFs for papers that are not open access. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
+[_Asymmetry-induced transient gel formation in fluid lipid membranes_](https://www.biorxiv.org/content/10.1101/2025.09.11.674739v1)<br>
+Emad Pirhadi, Xin Yong<br>
+bioRxiv ([PDF](https://www.biorxiv.org/content/10.1101/2025.09.11.674739v1.full.pdf))
+
 [_Cell-Scale Dynamic Modeling of Membrane Interactions with Arbitrarily Shaped Particles_](https://doi.org/10.1039/D5SM00567A)<br>
 Didarul Ahasan Redwan, Justin Reicher, Xin Yong<br>
 Soft Matter, 2025 ([PDF](https://pubs.rsc.org/en/content/articlepdf/2025/sm/d5sm00567a))
@@ -13,7 +17,6 @@ Soft Matter, 2025 ([PDF](https://pubs.rsc.org/en/content/articlepdf/2025/sm/d5sm
 [_Membrane Stress Enhances Specific PQS–Lipid Interactions That Drive Bacterial Outer Membrane Vesicle Biogenesis_](https://doi.org/10.3390/membranes15080247)<br>
 Citrupa Gopal, Hasan Al Tarify, Emad Pirhadi, Eliza G. O’Brien, Anuradha Dagar, Xin Yong, Jeffrey W. Schertzer<br>
 Membranes, 2025 ([PDF](https://www.mdpi.com/2077-0375/15/8/247/pdf?version=1755089760))
-
 
 [_PFOA induces fission of phase-separated phospholipid vesicles_](https://doi.org/10.1039/D5CC03353E)<br>
 Seungsu Han, Emad Pirhadi, Xin Yong, Sangwoo Shin<br>
