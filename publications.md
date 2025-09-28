@@ -10,6 +10,10 @@ We include the link for each of our papers that directs to a journal's site wher
 Emad Pirhadi, Xin Yong<br>
 bioRxiv ([PDF](https://www.biorxiv.org/content/10.1101/2025.09.11.674739v1.full.pdf))
 
+[_Seeing new depths: Three-dimensional flow of a free-swimming alga_](https://arxiv.org/abs/2509.06827)<br>
+Gregorius Pradipta, Wanho Lee, Van Tran, Kyle Welch, Santosh K. Sankar, Yongsam Kim, Satish Kumar, Xin Yong, Jiarong Hong, Sookkyung Lim, Xiang Cheng<br>
+arXiv ([PDF](https://arxiv.org/pdf/2509.06827))
+
 [_Cell-Scale Dynamic Modeling of Membrane Interactions with Arbitrarily Shaped Particles_](https://doi.org/10.1039/D5SM00567A)<br>
 Didarul Ahasan Redwan, Justin Reicher, Xin Yong<br>
 Soft Matter, 2025 ([PDF](https://pubs.rsc.org/en/content/articlepdf/2025/sm/d5sm00567a))
