@@ -6,6 +6,10 @@ permalink: /publications/
 We include the link for each of our papers that directs to a journal's site where that particular publication is available for access. We also try to provide links to preprint PDFs for papers that are not open access. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
+[_Recent Advances in Computational Modeling of the Effects of Micro/Nanoparticle Interactions on Vesicle Morphology_](https://doi.org/10.1016/bs.abl.2025.07.002)<br>
+Didarul Ahasan Redwan, Xin Yong<br>
+Advances in Biomembranes and Lipid Self-Assembly, 2025
+
 [_Asymmetry-induced transient gel formation in fluid lipid membranes_](https://www.biorxiv.org/content/10.1101/2025.09.11.674739v1)<br>
 Emad Pirhadi, Xin Yong<br>
 bioRxiv ([PDF](https://www.biorxiv.org/content/10.1101/2025.09.11.674739v1.full.pdf))
