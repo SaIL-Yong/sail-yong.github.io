@@ -6,6 +6,11 @@ permalink: /publications/
 We include the link for each of our papers that directs to a journal's site where that particular publication is available for access. We also try to provide links to preprint PDFs for papers that are not open access. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
+[_Evolution of Electrosprayed Particles at a Static Air-Water Interface on
+Multiple Time Scales_](https://doi.org/10.1016/j.jcis.2025.139611)<br>
+Joseph M. Prisaznuk, Xin Yong, Paul R. Chiarot<br>
+Journal of Colloid and Interface Science, 2025
+
 [_Recent Advances in Computational Modeling of the Effects of Micro/Nanoparticle Interactions on Vesicle Morphology_](https://doi.org/10.1016/bs.abl.2025.07.002)<br>
 Didarul Ahasan Redwan, Xin Yong<br>
 Advances in Biomembranes and Lipid Self-Assembly, 2025
