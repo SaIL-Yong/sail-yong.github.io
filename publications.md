@@ -6,6 +6,10 @@ permalink: /publications/
 We include the link for each of our papers that directs to a journal's site where that particular publication is available for access. We also try to provide links to preprint PDFs for papers that are not open access. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
+[_Self-Assembly of Crowded Semiflexible Polymers under Dynamic and Deformable Confinement_](https://arxiv.org/abs/2601.11031)<br>
+Nasir Amiri, Jonathan P. Singer, Xin Yong<br>
+arXiv ([PDF](https://arxiv.org/pdf/2601.11031))
+
 [_Evolution of Electrosprayed Particles at a Static Air-Water Interface on
 Multiple Time Scales_](https://doi.org/10.1016/j.jcis.2025.139611)<br>
 Joseph M. Prisaznuk, Xin Yong, Paul R. Chiarot<br>

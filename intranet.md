@@ -12,14 +12,14 @@ When someone has an upcoming conference talks or poster presentations, they can 
 {% raw %}
 | Date       | Research   | Journal |
 |------------|--------|-------|
-| Jan 30     | Pragya / Emad  |   | 
-| Feb 13     | Didarul / Nasir  | Srujan  |
+| Jan 28     | Pragya / Emad  |   | 
+| Feb 11     | Didarul / Nasir  | Srujan  |
 | Feb 18     | BPS talk practice (Emad)  | Pragya  |
-| Feb 27     | Ifti / Srujan  | Didarul  |
-| Mar 13     | APS talk practice (Pragya / Nasir / Didarul)  |   |
-| Mar 27     | Emad / Didarul | Nasir  |
-| Apr 10     | Ifti / Pragya  | Emad  |
-| Apr 24     | Srujan / Nasir  | Ifti  |
+| Feb 25     | Ifti / Srujan  | Didarul  |
+| Mar 11     | APS talk practice (Pragya / Nasir / Didarul)  |   |
+| Mar 25     | Emad / Didarul | Nasir  |
+| Apr 08     | Ifti / Pragya  | Emad  |
+| Apr 22     | Srujan / Nasir  | Ifti  |
 | May 07     | Data management review  |   |
 
 
