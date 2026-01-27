@@ -60,15 +60,17 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| Melanie Valladares | Undergraduate researcher (2025) |  |
+| Harshal Tawde | Visiting undergraduate researcher from UT Austin (2025) |  |
 | Eric Cadalzo | MS student (2023-2024) |  |
-| Priscilla Pomerantz | MS student (2023-2024) | |
+| Priscilla Pomerantz | MS student (2023-2024) |  |
 | [Justin Reicher](https://www.linkedin.com/in/justin-reicher) | Undergraduate researcher (2023-2024) | Systems engineer at L3Harris |
 | Javier Guadalupe | Undergraduate researcher (2023-2024) | Senior at Binghamton University |
 | Kyra Cheung | Visiting high school researcher (2023-2024) | Freshman at Binghamton University |
 | [Hasan Al Tarify](https://www.linkedin.com/in/hasan-al-tarify?trk=public_profile_browsemap) | MS thesis student (2022-2023) | PhD student at University of Minnesota |
 | [Reza Goharimerh](https://www.linkedin.com/in/reza-goharimehr-b7383b258) | PhD student (2022-2023) | PhD position at Villanova University |
 | [Gottlieb Teoli](https://www.linkedin.com/in/gottlieb-teoli) | Undergraduate reseacher (2023) | Product design engineer at ITT Inc. |
-| Ryan Ginley | Undergraduate researcher (2023) | MS student at Binghamton University
+| Ryan Ginley | Undergraduate researcher (2023) | MS student at Binghamton University |
 | [Jonathan M. Blisko](https://www.linkedin.com/in/jonathan-blisko-8aa7a9180) | Undergraduate researcher, MS student, and post-bacc reseacher (2018-2023) | MS student at University of Padova |
 | Mithila Farin | Undergraduate reseacher (2020-2021) | Undergraduate at Boston University
 | [Shensheng Chen](https://scholar.google.com/citations?user=rODiYsoAAAAJ&hl=en) | PhD student (2016-2020) | Postdoc at Caltech |
@@ -76,12 +78,12 @@ permalink: /people/
 | [Ao Li](https://www.linkedin.com/in/ao-li-li-ao) | MS and PhD student (2015-2019) | Software engineer at Mathworks |
 | [Shiyi Qin](https://scholar.google.com.hk/citations?user=CtIGZxEAAAAJ&hl=en) | PhD student (2015-2019) | Postdoc at Northwestern University |
 | [Mingfei Zhao](https://mzhao.people.ua.edu/) | PhD student (2015-2019) | Postdoc at University of Chicago
-| Andy Zou | Undergraduate researcher (2018-2019)
-| [Tyler F. Moy](https://www.linkedin.com/in/tylermoy)| Undergraduate researcher (2019) | |
+| Andy Zou | Undergraduate researcher (2018-2019) |  |
+| [Tyler F. Moy](https://www.linkedin.com/in/tylermoy)| Undergraduate researcher (2019) |  |
 | Adrian J. Diaz | Undergraduate researcher (2019) | MS student at Binghamton University |
 | [Joseph M. Prisaznuk](https://www.linkedin.com/in/joe-prisaznuk) | Undergraduate researcher (2019) | PhD student at Binghamton University |
-| Pranshu Babber | Undergraduate researcher (2019) | |
-| Rebecca E. Schneider | Undergraduate researcher (2019) | |
+| Pranshu Babber | Undergraduate researcher (2019) |  |
+| Rebecca E. Schneider | Undergraduate researcher (2019) |  |
 | Tanjil S. Uddin | Undergraduate researcher (2017-2019) | MD student at NJIT |
 | [Wilson Luo](https://www.linkedin.com/in/wilson-luo-67654b100) | Undergraduate researcher (2017-2019) | Systems Engineer at Lockheed Martin |
 | [Chunheng Zhao](https://www.linkedin.com/in/chunheng-zhao-76b609133) | MS thesis student (2017-2018) | PhD student at CCNY |
@@ -90,8 +92,9 @@ permalink: /people/
 | Giomar I. Condori | CSTEP summer researcher (2017) | PharmD student at Binghamton University |
 | Jiamin Li | Undergraduate researcher (2016-2017) | PhD student at UIC |
 | Peijun Yu | MS thesis student (2015-2016) | PhD student at City University of Hong Kong |
-| Juan C. Medina | Undergraduate Researcher (2015-2016) | Engineer at Pratt & Whitney |
+| Juan C. Medina | Undergraduate researcher (2015-2016) | Engineer at Pratt & Whitney |
 | Sumiao Pang | Undergraduate researcher (2015) | MS student at Binghamton University |
+| Jefferson Fideles da Silva | Visiting scholar from the Federal University of Minas Gerais, Brazil (2015) |  |
 
 
 {% endif %}

@@ -1,5 +1,5 @@
 ---
-name: Didarul Ahasan Redwan
+name: Didarul Redwan
 position: gradstudent
 avatar: didarul-redwan.jpg
 twitter:
@@ -12,6 +12,7 @@ title: Didarul Redwan
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `didarula@buffalo.edu`<br>
+<i class="fa fa-bar-chart"></i> <a href="https://scholar.google.com/citations?user=ypNIBIgAAAAJ&hl=en" target="_blank">Google Scholar</a><br>
 
 <hr>
 

@@ -1,6 +1,6 @@
 ---
 name: Melanie Valladares
-position: undergrad
+position: alumni
 avatar: mel-valladares.jpg
 twitter:
 joined: 202502

@@ -9,4 +9,7 @@ title: Nasir Amiri
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-<a href="mailto:nasirami@buffalo.edu"><i class="fa fa-envelope-o"></i> nasirami@buffalo.edu</a>
+### Contact
+
+<a href="mailto:nasirami@buffalo.edu"><i class="fa fa-envelope-o"></i> nasirami@buffalo.edu</a><br>
+<i class="fa fa-bar-chart"></i> <a href="https://scholar.google.com/citations?user=UcsB2xEAAAAJ&hl=en" target="_blank">Google Scholar</a><br>
