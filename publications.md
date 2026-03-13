@@ -6,12 +6,20 @@ permalink: /publications/
 We include the link for each of our papers that directs to a journal's site where that particular publication is available for access. We also try to provide links to preprint PDFs for papers that are not open access. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
+
+[_Asymmetry-induced transient gel formation in fluid lipid membranes_](https://doi.org/10.1016/j.bpj.2026.03.025)<br>
+Emad Pirhadi, Xin Yong<br>
+Biophysical Journal, 2026 ([PDF](https://www.biorxiv.org/content/10.1101/2025.09.11.674739v2.full.pdf))
+
+[_Improving Hydrodynamic Modeling of Free-Swimming Algae Using a Modified Three-Sphere Approach_](https://arxiv.org/abs/2603.07349)<br>
+Md Iftekhar Yousuf Emon, Gregorius R. Pradipta, Xiang Cheng, Xin Yong<br>
+arXiv ([PDF](https://arxiv.org/pdf/2603.07349))
+
 [_Self-Assembly of Crowded Semiflexible Polymers under Dynamic and Deformable Confinement_](https://arxiv.org/abs/2601.11031)<br>
 Nasir Amiri, Jonathan P. Singer, Xin Yong<br>
 arXiv ([PDF](https://arxiv.org/pdf/2601.11031))
 
-[_Evolution of Electrosprayed Particles at a Static Air-Water Interface on
-Multiple Time Scales_](https://doi.org/10.1016/j.jcis.2025.139611)<br>
+[_Evolution of Electrosprayed Particles at a Static Air-Water Interface on Multiple Time Scales_](https://doi.org/10.1016/j.jcis.2025.139611)<br>
 Joseph M. Prisaznuk, Xin Yong, Paul R. Chiarot<br>
 Journal of Colloid and Interface Science, 2025
 
@@ -19,9 +27,11 @@ Journal of Colloid and Interface Science, 2025
 Didarul Ahasan Redwan, Xin Yong<br>
 Advances in Biomembranes and Lipid Self-Assembly, 2025
 
+<!---
 [_Asymmetry-induced transient gel formation in fluid lipid membranes_](https://www.biorxiv.org/content/10.1101/2025.09.11.674739v1)<br>
 Emad Pirhadi, Xin Yong<br>
 bioRxiv ([PDF](https://www.biorxiv.org/content/10.1101/2025.09.11.674739v1.full.pdf))
+-->
 
 [_Seeing new depths: Three-dimensional flow of a free-swimming alga_](https://arxiv.org/abs/2509.06827)<br>
 Gregorius Pradipta, Wanho Lee, Van Tran, Kyle Welch, Santosh K. Sankar, Yongsam Kim, Satish Kumar, Xin Yong, Jiarong Hong, Sookkyung Lim, Xiang Cheng<br>
