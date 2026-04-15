@@ -10,6 +10,10 @@ We include the link for each of our papers that directs to a journal's site wher
 Emad Pirhadi, Andrew L Lewis, Juan M Vanegas, Xin Yong<br>
 ChemRxiv, 2026 ([PDF](https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15001048/v1?download=true&redirectToLatest=false))
 
+[_Self-Assembly of Crowded Semiflexible Polymers under Dynamic and Deformable Confinement_](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.6c00149)<br>
+Nasir Amiri, Jonathan P. Singer, Xin Yong<br>
+Macromolecule, 2026 ([PDF](https://arxiv.org/pdf/2601.11031))
+
 [_Asymmetry-induced transient gel formation in fluid lipid membranes_](https://doi.org/10.1016/j.bpj.2026.03.025)<br>
 Emad Pirhadi, Xin Yong<br>
 Biophysical Journal, 2026 ([PDF](https://www.biorxiv.org/content/10.1101/2025.09.11.674739v2.full.pdf))
@@ -18,9 +22,15 @@ Biophysical Journal, 2026 ([PDF](https://www.biorxiv.org/content/10.1101/2025.09
 Md Iftekhar Yousuf Emon, Gregorius R. Pradipta, Xiang Cheng, Xin Yong<br>
 arXiv ([PDF](https://arxiv.org/pdf/2603.07349))
 
+<!---
 [_Self-Assembly of Crowded Semiflexible Polymers under Dynamic and Deformable Confinement_](https://arxiv.org/abs/2601.11031)<br>
 Nasir Amiri, Jonathan P. Singer, Xin Yong<br>
 arXiv ([PDF](https://arxiv.org/pdf/2601.11031))
+-->
+
+[_Shape-Dependent Toxicity of Gold Nanoparticles in Microalgae: Distinct Cellular and Molecular Responses_](https://www.biorxiv.org/content/10.64898/2025.12.15.694526v1.abstract)<br>
+Can Wang, Bhaskar Sharma, Ruonan Peng, Xin Yong, Louis S. Santiago, Ke Du<br>
+bioRxiv ([PDF](https://www.biorxiv.org/content/10.64898/2025.12.15.694526v1.full.pdf))
 
 [_Evolution of Electrosprayed Particles at a Static Air-Water Interface on Multiple Time Scales_](https://doi.org/10.1016/j.jcis.2025.139611)<br>
 Joseph M. Prisaznuk, Xin Yong, Paul R. Chiarot<br>
