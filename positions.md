@@ -9,7 +9,7 @@ permalink: /positions/
 
 Interested candidates are invited to email <a href="mailto:xinyong@buffalo.edu">Dr. Xin Yong</a> with a CV, unofficial B.S. (and M.S.) transcripts, TOEFL and GRE scores, contact information of 2-3 references, and a brief description of your research experience and motivation. More information about PhD admissions and applications can be found at: https://engineering.buffalo.edu/mechanical-aerospace/graduate/admissions.html. -->
 
-We are recruiting a fully funded PhD student to join us in Spring/Fall 2026.
+We are recruiting a fully funded PhD student to join us in Spring/Fall 2027.
 
 Our team takes a transdisciplinary approach to uncovering new physics and mechanics in soft materials and biological systems, with the goal of advancing material design and manufacturing for novel products and industries. Our research combines theoretical analysis, computational simulations, data-driven modeling, and experimental investigations to explore complex transport phenomena at material interfaces, establish process-structure-property relationships, and design new functional materials. We focus on applications in advanced manufacturing, health care, and environmental sustainability. Our lab has a strong record of preparing researchers for academic careers, with alumni securing tenure-track positions at top research universities like the University of Alabama and Hong Kong University of Science and Technology. Current research topics include but are not limited to 
 

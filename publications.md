@@ -6,6 +6,10 @@ permalink: /publications/
 We include the link for each of our papers that directs to a journal's site where that particular publication is available for access. We also try to provide links to preprint PDFs for papers that are not open access. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
+[_Seeing New Depths: Three-Dimensional Flow of a Free-Swimming Alga_](https://journals.aps.org/prx/abstract/10.1103/2rr3-lbrn)<br>
+Gregorius Pradipta, Wanho Lee, Van Tran, Kyle Welch, Santosh K. Sankar, Yongsam Kim, Satish Kumar, Xin Yong, Jiarong Hong, Sookkyung Lim, Xiang Cheng<br>
+Physical Review X, 2026 ([PDF](https://journals.aps.org/prx/pdf/10.1103/2rr3-lbrn))
+
 [_Microscopic stress in biomembranes: A perspective on key concepts, methods, and applications_](https://doi.org/10.26434/chemrxiv.15001048/v1)<br>
 Emad Pirhadi, Andrew L Lewis, Juan M Vanegas, Xin Yong<br>
 ChemRxiv, 2026 ([PDF](https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15001048/v1?download=true&redirectToLatest=false))
@@ -46,9 +50,11 @@ Emad Pirhadi, Xin Yong<br>
 bioRxiv ([PDF](https://www.biorxiv.org/content/10.1101/2025.09.11.674739v1.full.pdf))
 -->
 
+<!---
 [_Seeing new depths: Three-dimensional flow of a free-swimming alga_](https://arxiv.org/abs/2509.06827)<br>
 Gregorius Pradipta, Wanho Lee, Van Tran, Kyle Welch, Santosh K. Sankar, Yongsam Kim, Satish Kumar, Xin Yong, Jiarong Hong, Sookkyung Lim, Xiang Cheng<br>
 arXiv ([PDF](https://arxiv.org/pdf/2509.06827))
+-->
 
 [_Cell-Scale Dynamic Modeling of Membrane Interactions with Arbitrarily Shaped Particles_](https://doi.org/10.1039/D5SM00567A)<br>
 Didarul Ahasan Redwan, Justin Reicher, Xin Yong<br>

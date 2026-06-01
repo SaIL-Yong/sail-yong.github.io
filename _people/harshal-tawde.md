@@ -1,6 +1,6 @@
 ---
 name: Harshal Tawde
-position: visiting
+position: alumni
 avatar:
 twitter:
 joined: 202504
