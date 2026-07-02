@@ -6,13 +6,19 @@ permalink: /publications/
 We include the link for each of our papers that directs to a journal's site where that particular publication is available for access. We also try to provide links to preprint PDFs for papers that are not open access. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
+[_Microscopic Stress in Biomembranes: A Perspective on Key Concepts, Methods, and Applications_](https://doi.org/10.1021/acs.jctc.6c00510)<br>
+Emad Pirhadi, Andrew L. Lewis, Juan M. Vanegas, Xin Yong<br>
+Journal of Chemical Theory and Computation, 2026 ([PDF](https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15001048/v2?download=true&redirectToLatest=false))
+
 [_Seeing New Depths: Three-Dimensional Flow of a Free-Swimming Alga_](https://journals.aps.org/prx/abstract/10.1103/2rr3-lbrn)<br>
 Gregorius Pradipta, Wanho Lee, Van Tran, Kyle Welch, Santosh K. Sankar, Yongsam Kim, Satish Kumar, Xin Yong, Jiarong Hong, Sookkyung Lim, Xiang Cheng<br>
 Physical Review X, 2026 ([PDF](https://journals.aps.org/prx/pdf/10.1103/2rr3-lbrn))
 
+<!---
 [_Microscopic stress in biomembranes: A perspective on key concepts, methods, and applications_](https://doi.org/10.26434/chemrxiv.15001048/v1)<br>
 Emad Pirhadi, Andrew L Lewis, Juan M Vanegas, Xin Yong<br>
 ChemRxiv, 2026 ([PDF](https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15001048/v1?download=true&redirectToLatest=false))
+-->
 
 [_Self-Assembly of Crowded Semiflexible Polymers under Dynamic and Deformable Confinement_](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.6c00149)<br>
 Nasir Amiri, Jonathan P. Singer, Xin Yong<br>
