@@ -1,6 +1,6 @@
 ---
 name: Adam Brennan
-position: undergrad
+position: alumni 
 avatar:
 twitter:
 joined: 202605

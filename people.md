@@ -60,6 +60,8 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| [Didarul Redwan](https://scholar.google.com/citations?user=ypNIBIgAAAAJ&hl=en) | PhD Student (2021-2026) | Postdoc at University of Michigan |
+| Adam Brenner | Summer 2026 SURE Intern |  |
 | Melanie Valladares | Undergraduate researcher (2025) |  |
 | Harshal Tawde | Visiting undergraduate researcher from UT Austin (2025) |  |
 | Eric Cadalzo | MS student (2023-2024) |  |

@@ -1,6 +1,6 @@
 ---
 name: Didarul Redwan
-position: gradstudent
+position: alumni 
 avatar: didarul-redwan.jpg
 twitter:
 joined: 202108
