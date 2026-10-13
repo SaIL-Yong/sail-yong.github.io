@@ -6,6 +6,10 @@ permalink: /publications/
 We include the link for each of our papers that directs to a journal's site where that particular publication is available for access. We also try to provide links to preprint PDFs for papers that are not open access. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
+[_Mapping Spatially Heterogeneous and History-Dependent Hydrogel Mechanics Using Fluid-Driven Cyclic Shear_](https://doi.org/10.26434/chemrxiv.15010084/v1)<br>
+Pragya Kushwaha, Xuxiang Qian, Sangwoo Shin, Xin Yong<br>
+ChemRxiv, 2026 ([PDF](https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15010084/v1?download=true?redirectToLatest=false&redirectToLatest=false))
+
 [_Shape-Dependent Interactions of Gold Nanoparticles with Microalgae: Distinct Cellular and Molecular Responses_](https://pubs.acs.org/doi/full/10.1021/envhealth.5c00839)<br>
 Can Wang, Bhaskar Sharma, Ruonan Peng, Xin Yong, Louis S. Santiago, Ke Du<br>
 Environment & Health, 2026 ([PDF](https://pubs.acs.org/doi/pdf/10.1021/envhealth.5c00839?ref=article_openPDF))
